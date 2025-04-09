@@ -1,6 +1,3 @@
-Documentation for Deep-research-applications
-Overview
-Overview
 Welcome to the Deep Research Company repository! This repository contains a Jupyter Notebook that encapsulates our research findings and methodologies.
 
 Repository Structure
